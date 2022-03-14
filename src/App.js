@@ -25,6 +25,8 @@ export default function App() {
   return (
     <div>
       <App1 />
+      <h3>Creating the user defined component once reuse as many times as we want</h3>
+      <App1 />
       <h1>Above is the counter : By using class component</h1>
       <p>Class component having a props as a arguments</p>
       <App1 />
